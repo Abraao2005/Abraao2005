@@ -6,7 +6,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Abraao2005/](https://github.com/Abraao2005/)
 
-- 💬 Ask me about **PHP**
+- 💬 Fale comigo sobre **PHP**
 
 - 📫Como me contatar? **abraao20001@gmail.com**
 
