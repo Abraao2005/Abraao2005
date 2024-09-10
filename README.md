@@ -9,10 +9,7 @@
 - 💬 Fale comigo sobre **PHP**
 
 - 📫Como me contatar? **abraao20001@gmail.com**
-- <div width:100% align="center">
-   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraao2005&theme=transparent&layout=compact" /> 
-   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=abraao2005&show_icons=true&bg_color=00000000" />
-</div>
+
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
