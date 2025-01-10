@@ -2,7 +2,7 @@
 <h1 align="center">Ola 👋, Me chamo Abraão Oliveira</h1>
 <h3 align="center">Sou um desenvolvedor back-end.</h3>
 
-- 🌱 Atualmente estou estudando **Mysql e Laravel**
+- 🌱 Atualmente estou estudando **React**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Abraao2005/](https://github.com/Abraao2005/)
 
