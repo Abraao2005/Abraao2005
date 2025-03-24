@@ -1,6 +1,6 @@
 
 <h1 align="center">Ola 👋, Me chamo Abraão Oliveira</h1>
-<h3 align="center">Sou um desenvolvedor back-end.</h3>
+<h3 align="center">Sou um desenvolvedor full-stack</h3>
 
 - 🌱 Atualmente estou estudando **React**
 
